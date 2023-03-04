@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bienvenido a mi portfolio.😁<br><br>Me llamo Adán Bustos y soy Data Scientist. 📊<br><br>Actualmente trabajo para una consultoría💻<br><br>Mis intereses son la ciencia de datos, blockchain y robótica🤖<br>
+Bienvenido a mi portfolio.😁<br><br>Me llamo Adán Bustos y soy Data Scientist. 📊<br><br>Actualmente trabajo para una consultoría💻<br><br>Mis intereses son la ciencia de datos, blockchain, robótica y la Inteligencia Artificial🤖<br>
 
 
 ## 🌐 Socials:
